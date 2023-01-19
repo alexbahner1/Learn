@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "sketch": "progArduino1/ch3-C-basics/3-08/3-08.ino",
+    "programmer": "arduino:avrisp",
+    "port": "/dev/ttyUSB0",
+    "configuration": "cpu=atmega328"
+}
